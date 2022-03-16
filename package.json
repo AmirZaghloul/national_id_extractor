@@ -1,0 +1,16 @@
+{
+  "name": "national_id_data_extractor",
+  "version": "1.0.0",
+  "description": "Egyptian National ID data extractor",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Amir Zaghloul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
